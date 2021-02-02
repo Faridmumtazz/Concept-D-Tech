@@ -28,11 +28,11 @@
 
 6.Next, Make the body content of the website your way
 
-7. Dont Forget to create a contact person on your website
+7.Dont Forget to create a contact person on your website
 
-8. Finally, create a footer and copyright on your website
+8.Finally, create a footer and copyright on your website
 
-## This is an example of a website display with desktop version and mobile version
+## This is an example of a website display with desktop version
 
 ![alt text](https://github.com/Faridmumtazz/Web-Concept/blob/main/img/md.jpeg)
 
